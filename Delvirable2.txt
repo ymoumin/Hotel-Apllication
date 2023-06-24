@@ -1,0 +1,3 @@
+the sql path : ~\sqlcl-20.4.2.35.2359\sqlcl\bin>sql
+Username : SYS as SYSDBA
+Password : admin123
